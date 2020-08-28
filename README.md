@@ -1,4 +1,7 @@
-### Hi there 👋
+### m3yrin
+
+Interested in ML/NLProc. Master of Arts in Physics from UTokyo.
+
 
 <!--
 **m3yrin/m3yrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
